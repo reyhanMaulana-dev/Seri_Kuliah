@@ -3,7 +3,7 @@
 "orng": "orang", "keliatan": "kelihatan", "kocak": "lucu", "basamallah": "bismillah",
 "bkl": "akan", "kg": "tidak", "duit": "uang", "buat": "untuk", "krn": "karena", "trll": "terlalu",
 "gampang": "mudah", "minjem": "minjam", "alhasil": "hasilnya", "kyk": "seperti", "kasian": "kasihan",
-"ngeliat": "melihat", "bentar": "sedikit", "lg": "lagi", "fb": "facebook", "ga tau": "tidak tahu"
+"ngeliat": "melihat", "bentar": "sedikit", "lg": "lagi", "fb": "facebook", "ga tau": "tidak tahu",
 "kek": "seperti", "jngan": "jangan", "omon": "omong", "gaspol": "tancap gas", "moga": "semoga",
 "blunder": "keteledoran", "kenceng": "kencang", "uga": "juga", "peratiin": "perhatiin",
 "revolu": "revolusi", "yt": "youtube", "dr": "dari", "dng": "dengan", "gk": "tidak", "ga": "tidak",
